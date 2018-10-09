@@ -124,7 +124,7 @@ img:hover {
 
 /* home section */
 #home {
-  background: url('../images/portfolio-img13.JPG')no-repeat;
+  background: url('../images/portfolio-img13.jpg')no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 600px;
