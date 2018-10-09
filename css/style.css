@@ -550,4 +550,37 @@ footer span {
   #team h4 {
     padding-bottom: 30px;
   }
+
+}
+
+@media screen and (max-width: 480px) {
+  .banner_class {
+    height: 280px;
+    ;
+  }
+
+  #banner_top {
+    padding-top: 20px;
+  }
+
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .banner_class {
+    height: 320px;
+    ;
+  }
+
+  #banner_top {
+    padding-top: 20px;
+  }
+
+  h2 {
+    margin: 0;
+    padding: 0;
+  }
 }
