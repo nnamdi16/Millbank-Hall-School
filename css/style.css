@@ -536,6 +536,8 @@ footer span {
   color: #fff;
 }
 
+
+
 /* media 960 */
 @media only screen and (max-width: 980px) {
   .navbar-default .navbar-nav li a {
